@@ -2,4 +2,4 @@
 Introducción a Python
 
 
-![download](imagenes/download.PNG)
+![download](imagenes/download.png)
